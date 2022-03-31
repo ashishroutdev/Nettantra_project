@@ -1,2 +1,2 @@
-# Nettantra_project
+#Ipl 2project
 Assignment  - IPL Cricket Team
